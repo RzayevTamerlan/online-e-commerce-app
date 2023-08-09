@@ -20,11 +20,11 @@ const initialState = filterAdapter.getInitialState({
 });
 export const fetchBrands = createAsyncThunk("filter/fetchBrands", async () => {
   const { request } = useHttp();
-  return await request("https://online-e-commerce-app-813w.vercel.app/brands");
+  return await request("https://online-e-commerce-app.vercel.app/brands");
 });
 export const fetchTypes = createAsyncThunk("filter/fetchTypes", async () => {
   const { request } = useHttp();
-  return await request("https://online-e-commerce-app-813w.vercel.app/types");
+  return await request("https://online-e-commerce-app.vercel.app/types");
 });
 const filterSlice = createSlice({
   name: "filter",
