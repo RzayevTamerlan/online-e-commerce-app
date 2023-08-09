@@ -1,0 +1,1235 @@
+{
+  "products": [
+    {
+      "id":1,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung Galaxy S23 Ultra",
+      "raiting": 5,
+      "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139011/Samsung-Galaxy-S23-Ultra_-featured-image-packshot-review.jpg",
+      "price":"1379.99",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM), 1750 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.8 inches, 114.7 cm2 (~89.9% screen-to-body ratio)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)"
+        }
+      ]
+    },
+    
+    {
+      "id":2,
+      "brand":"Samsung",
+      "type":"refrigator",
+      "name":"French Door Refrigerator, 470L Net Capacity",
+      "raiting": 4.5,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/levant/rf49a5202b1-lv/gallery/levant-water-dispenser-369505-rf49a5202b1-lv-414068592?$684_547_PNG$",
+      "price":"1460",
+      "specs":[
+        {
+          "id":"total",
+          "label": "Total capacity(Litr)",
+          "labelData":"470  liter"
+        },
+        {
+          "id":"width",
+          "label": "Width",
+          "labelData":"817 mm"
+        },
+        {
+          "id":"height",
+          "label": "Height",
+          "labelData":"1776 mm"
+        },
+        {
+          "id":"weight",
+          "label": "Weight",
+          "labelData":"99 kq"
+        },
+        {
+          "id":"cooling-type",
+          "label": "Cooling type",
+          "labelData":"Twin Cooling Plus"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 14 Pro Max",
+      "raiting": 5,
+      "price":"1399",
+      "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125428/Apple-iPhone-14-Pro-Max_FINAL_featured-image-packshot-review-1.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"OLED 120Hz"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.7 inches 2796 x 1290 pixels, 19.5:9 ratio, 460 PPI"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 16"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple 16 Bionic (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core, 2x 3.46GHz Everest + 4x 2.02GHz Sawtooth"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "brand":"Xiaomi",
+      "type":"smartphone",
+      "name":"Xiaomi Redmi Note 13 Pro",
+      "raiting": 4.5,
+      "price":"900",
+      "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139229/Xiaomi-13-Pro_featured-image-packshot-review-Recovered.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.73 inches, 108.9 cm2 (~89.6% screen-to-body ratio) 1440 x 3200 pixels, 20:9 ratio (~522 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, MIUI 14"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "brand":"Poco",
+      "type":"smartphone",
+      "name":"Poco X5 Pro",
+      "raiting": 4.5,
+      "price":"268",
+      "img": "https://strgimgr.umico.az/sized/840/440307-7a55e68c473ee30041c35226f58c1feb.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.67 inches, 107.4 cm2 (~86.8% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, MIUI 14 for POCO"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM7325 Snapdragon 778G 5G (6 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55)"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung Galaxy S22 5G",
+      "raiting": 4.7,
+      "price":"699",
+      "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202202/samsung-galaxy-s22-green.jpg?size=690:388s",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 90.1 cm2 (~87.4% screen-to-body ratio) 1080 x 2340 pixels, 19.5:9 ratio (~425 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2200 (4 nm) - Europe or Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - ROW"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe or Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - ROW"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "brand":"Xiaomi",
+      "type":"smartphone",
+      "name":"Xiaomi Redmi Note 12 Pro",
+      "raiting": 4.7,
+      "price":"269.50",
+      "img": "https://bytelecom.az/media/2023/06/20/product_images/21779/Xiaomi-Redmi-Note-12-Pro-blue-1.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"OLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.67 inches, 107.4 cm2 (~86.7% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, MIUI 13"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Mediatek MT6877V Dimensity 1080 (6 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+        }
+      ]
+    },
+    {
+      "id":8,
+      "brand":"Lenovo",
+      "type":"notebook",
+      "name":"Lenovo V14-IGL",
+      "raiting": 4,
+      "price":"260",
+      "img": "https://www.notebookcheck.net/uploads/tx_nbc2/LenovoV14-IGL__1_.jpg",
+      "specs":[
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"14.00 inch 16:9, 1366 x 768 pixel 112 PPI, TN, glossy: no, 60 Hz"
+        },
+        {
+          "id":"graphic-card",
+          "label": "Graphics adapter",
+          "labelData": "UHD Graphics 600"
+        },
+        {
+          "id":"memory",
+          "label":"Memory",
+          "labelData":"4 GB, DDR4-2400"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Windows 10 Pro"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Gemini Lake Refresh"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Intel Celeron N4020 2 x 1.1 - 2.8 GHz"
+        }
+      ]
+    },
+    {
+      "id":9,
+      "brand":"Asus",
+      "type":"notebook",
+      "name":"ASUS ROG Strix G16 Gaming Laptop",
+      "raiting": 5,
+      "price":"1999.99",
+      "img": "https://static.bhphoto.com/images/multiple_images/images500x500/1678711764_IMG_1953678.jpg",
+      "specs":[
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"16 2560 x 1600 IPS Display"
+        },
+        {
+          "id":"graphic-card",
+          "label": "Graphics adapter",
+          "labelData": "NVIDIA GeForce RTX 4070 (8GB GDDR6)"
+        },
+        {
+          "id":"memory",
+          "label":"Memory",
+          "labelData":"32GB DDR5 RAM + 1TB SSD"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Windows 11 Pro"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Intel® 700 Series Desktop Chipsets"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"2.2 GHz Intel Core i9 24-Core (13th Gen)"
+        }
+      ]
+    },
+    {
+      "id":10,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 13 Pro Max",
+      "raiting": 5,
+      "price":"1099.99",
+      "img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021_inline.jpg.large.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio) 1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 15, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A15 Bionic (5 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)"
+        }
+      ]
+    },
+    {
+      "id":11,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 14",
+      "raiting": 4.2,
+      "price":"799",
+      "img": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2022/03/RNv773NiNzhxaQ3WJn344g-1200-80.jpg?fit=1200%2C675&ssl=1",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio) 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 16, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A15 Bionic (5 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)"
+        }
+      ]
+    },
+    {
+      "id":12,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 14 Pro",
+      "raiting": 4.5,
+      "price":"1099",
+      "img": "https://www.ixbt.com/img/x780x600/r30/00/02/56/75/cover.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 91.7 cm2 (~87.0% screen-to-body ratio) 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 16, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A16 Bionic (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)"
+        }
+      ]
+    },
+    {
+      "id":13,
+      "brand":"Xiaomi",
+      "type":"headphone",
+      "name":"Xiaomi Redmi AirDots 3",
+      "raiting": 4.8,
+      "price":"25",
+      "img": "https://cdn.webshopapp.com/shops/256009/files/376984711/xiaomi-xiaomi-redmi-buds-3-pro.jpg",
+      "specs":[
+        {
+          "id":"hz",
+          "label": "Hz Diapozon",
+          "labelData":"20 - 20000"
+        },
+        {
+          "id":"bluetooth",
+          "label": "Bluetooth version",
+          "labelData":"5.2"
+        },
+        {
+          "id":"duration-of-operation",
+          "label": "Duration of operation",
+          "labelData":"7"
+        },
+        {
+          "id":"charge-time",
+          "label": "Charge Time",
+          "labelData":"2hrs"
+        },
+        {
+          "id":"water-resis",
+          "label": "Water Protection Texnologu",
+          "labelData":"IPX4"
+        }
+      ]
+    },
+    {
+      "id":14,
+      "brand":"LG",
+      "type":"washing-machine",
+      "name":"LG F2V5HS2S",
+      "raiting": 3.8,
+      "price":"599",
+      "img": "https://www.lg.com/ru/images/washing-machines/md06177416/gallery/medium01.jpg",
+      "specs":[
+        {
+          "id":"max-weight",
+          "label": "Maximum Laundry Load",
+          "labelData":"7kq"
+        },
+        {
+          "id":"display",
+          "label": "Display",
+          "labelData":"Yes"
+        },
+        {
+          "id":"program-count",
+          "label": "Number Of Programs",
+          "labelData":"14"
+        },
+        {
+          "id":"energy-class",
+          "label": "Energy Consumption Class",
+          "labelData":"A"
+        },
+        {
+          "id":"spin-speed",
+          "label": "Maximum Spin Speed",
+          "labelData":"1200 spins/minute"
+        }
+      ]
+    },
+    {
+      "id":15,
+      "brand":"Honor",
+      "type":"smartphone",
+      "name":"Honor 90 Lite",
+      "raiting": 3,
+      "price":"310",
+      "img": "https://cdn-files.kimovil.com/default/0008/88/thumb_787542_default_big.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"IPS LCD, 90Hz"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.7 inches, 108.7 cm2 (~89.6% screen-to-body ratio) 1080 x 2388 pixels (~391 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, Magic UI 7.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Mediatek Dimensity 6020 (7 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+        }
+      ]
+    },
+    {
+      "id":16,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung Galaxy A24 4G",
+      "raiting": 4,
+      "price":"181.99",
+      "img": "https://strgimgr.umico.az/sized/840/485464-c994716ccc898c6c5f9dd5a9d92bcd5d.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super AMOLED, 90Hz, 1000 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.5 inches, 103.7 cm2 (~82.4% screen-to-body ratio) 6.5 inches, 103.7 cm2 (~82.4% screen-to-body ratio)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Mediatek MT8781 Helio G99 (6nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+        }
+      ]
+    },
+    {
+      "id":17,
+      "brand":"Xiaomi",
+      "type":"smartphone",
+      "name":"Xiaomi 13",
+      "raiting": 4.5,
+      "price":"712",
+      "img": "https://cdn-files.kimovil.com/default/0008/13/thumb_712207_default_big.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"AMOLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.36 inches, 97.7 cm2 (~89.4% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~414 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, MIUI 14"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)"
+        }
+      ]
+    },
+    {
+      "id":18,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 11",
+      "raiting": 4.4,
+      "price":"579.95",
+      "img": "https://irichonline.ru/wp-content/uploads/2023/02/30045357b-1.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Liquid Retina IPS LCD, 625 nits (typ)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 90.3 cm2 (~79.0% screen-to-body ratio) 828 x 1792 pixels, 19.5:9 ratio (~326 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 13, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A13 Bionic (7 nm+)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)"
+        }
+      ]
+    },
+    {
+      "id":19,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 11 Pro",
+      "raiting": 4.4,
+      "price":"1099",
+      "img": "https://m-cdn.phonearena.com/images/phones/76881-940/Apple-iPhone-11-Pro.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"5.8 inches, 84.4 cm2 (~82.1% screen-to-body ratio) 1125 x 2436 pixels, 19.5:9 ratio (~458 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 13, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A13 Bionic (7 nm+)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)"
+        }
+      ]
+    },
+    {
+      "id":20,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 11 Pro Max",
+      "raiting": 4.6,
+      "img": "https://m-cdn.phonearena.com/images/phones/76888-940/Apple-iPhone-11-Pro-Max.jpg",
+      "price":"509.99",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.5 inches, 102.9 cm2 (~83.7% screen-to-body ratio) 1242 x 2688 pixels, 19.5:9 ratio (~458 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 13, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A13 Bionic (7 nm+)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)"
+        }
+      ]
+    },
+    {
+      "id":21,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 12",
+      "raiting": 4.3,
+      "price":"599",
+      "img": "https://www.cnet.com/a/img/resize/7186852f8f8fbd2a24c6e57e13c6f1eeee127ef6/hub/2020/10/23/0dde9b80-a09d-430a-b493-5337ca1d6f2d/p1002406.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 625 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio) 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 14.1, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A14 Bionic (5 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)"
+        }
+      ]
+    },
+    {
+      "id":22,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 12 Pro",
+      "raiting": 4.7,
+      "price":"779",
+      "img": "https://m-cdn.phonearena.com/images/phones/80751-940/Apple-iPhone-12-Pro.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio) 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 14.1, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A14 Bionic (5 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)"
+        }
+      ]
+    },
+    {
+      "id":23,
+      "brand":"Apple",
+      "type":"smartphone",
+      "name":"iPhone 12 Pro Max",
+      "price":"1099",
+      "raiting": 4.9,
+      "img": "https://m-cdn.phonearena.com/images/phones/81071-350/Apple-iPhone-12-Pro-Max.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio) 1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"iOS 14.1, upgradable to iOS 16.5, planned upgrade to iOS 17"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Apple A14 Bionic (5 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)."
+        }
+      ]
+    },
+    {
+      "id":24,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung S21",
+      "raiting": 4.5,
+      "price":"579.99",
+      "img": "data:image/jpeg;base64,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",
+      "specs":[
+        {
+          "id":"display-data",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.2 inches, 94.1 cm2 (~87.2% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~421 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 11, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2100 (5 nm) - International / Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55) - International / Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55) - USA/China"
+        }
+      ]
+    },
+    {
+      "id":25,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung S21 Ultra",
+      "raiting": 4.5,
+      "price":"749.99",
+      "img": "https://media.router-switch.com/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/s/a/samsung-galaxy-s21-ultra-5g-sm-g9980.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.8 inches, 112.1 cm2 (~89.8% screen-to-body ratio) 1440 x 3200 pixels, 20:9 ratio (~515 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 11, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2100 (5 nm) - International / Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55) - International / Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55) - USA/China"
+        }
+      ]
+    },
+    {
+      "id":26,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung Galaxy S22 Ultra",
+      "raiting": 5,
+      "price":"899.99",
+      "img": "https://maxi.az/upload/iblock/a7e/ofk6o0witxybgll0w8972z6xqhszqi2g/telefon_samsung_galaxy_s22_ultra_5g_12gb_256gb_black_detail.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio) 1440 x 3088 pixels, 19.3:9 ratio (~500 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2200 (4 nm) - Europe / Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - ROW"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe / Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - ROW"
+        }
+      ]
+    },
+    {
+      "id":27,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung S21+",
+      "raiting": 4.4,
+      "price":"266.75",
+      "img": "https://cdn.vox-cdn.com/thumbor/eleUOsgJ_F17rKdkmt25gAzbS5Q=/0x0:1920x1080/1400x1400/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/22200324/42240.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.7 inches, 107.8 cm2 (~88.3% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~394 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 11, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2100 (5 nm) - International / Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55) - International / Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55) - USA/China"
+        }
+      ]
+    },
+    {
+      "id":28,
+      "brand":"Samsung",
+      "type":"smartphone",
+      "name":"Samsung Galaxy S22+",
+      "raiting": 4.8,
+      "price":"500",
+      "img": "https://irshad.az/resized/fit540x550/center/products/73062/s22-green.jpeg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.6 inches, 105.3 cm2 (~88.3% screen-to-body ratio) 1080 x 2340 pixels, 19.5:9 ratio (~393 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, upgradable to Android 13, One UI 5.1"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Exynos 2200 (4 nm) - Europe / Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - ROW"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe / Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - ROW"
+        }
+      ]
+    },
+    {
+      "id":29,
+      "brand":"Poco",
+      "type":"smartphone",
+      "name":"Poco F5 Pro",
+      "raiting": 4.6,
+      "price":"453",
+      "img": "https://softech.kg/image/cache/7e187402321452799564c011ccd67428.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 1000 nits (HBM), 1400 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.67 inches, 107.4 cm2 (~87.5% screen-to-body ratio) 1440 x 3200 pixels, 20:9 ratio (~526 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, MIUI 14 for POCO"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x3.0 GHz Cortex-X2 & 3x2.5 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
+        }
+      ]
+    },
+    {
+      "id":30,
+      "brand":"Poco",
+      "type":"smartphone",
+      "name":"Poco F5",
+      "raiting": 4.5,
+      "price":"399",
+      "img": "https://www.smartprix.com/bytes/wp-content/uploads/2023/05/4-4-scaled.jpg",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"AMOLED, 68B colors, Dolby Vision, HDR10+, 120Hz, 500 nits (typ), 1000 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM7475-AB Snapdragon 7+ Gen 2 (4 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x2.91 GHz Cortex-X2 & 3x2.49 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)"
+        }
+      ]
+    },
+    {
+      "id":31,
+      "brand":"Poco",
+      "type":"smartphone",
+      "name":"Poco X5",
+      "raiting": 4.3,
+      "price":"299",
+      "img": "data:image/jpeg;base64,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",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"Super AMOLED, 120Hz, 700 nits (HBM), 1200 nits (peak)"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"6.67 inches, 107.4 cm2 (~85.0% screen-to-body ratio) 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 12, MIUI 13 for POCO"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM6375 Snapdragon 695 5G (6 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)"
+        }
+      ]
+    },
+    {
+      "id":32,
+      "brand":"Xiaomi",
+      "type":"tablet",
+      "name":"Pad 6",
+      "raiting": 4.4,
+      "price":"449.00",
+      "img": "data:image/jpeg;base64,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",
+      "specs":[
+        {
+          "id":"labelData",
+          "label": "Display Type",
+          "labelData":"IPS LCD, 1B colors, 144Hz, HDR10, Dolby Vision, 550 nits"
+        },
+        {
+          "id":"display-size",
+          "label": "Display Size",
+          "labelData":"11.0 inches, 350.9 cm2 (~83.6% screen-to-body ratio) 1800 x 2880 pixels, 16:10 ratio (~309 ppi density)"
+        },
+        {
+          "id":"os",
+          "label": "Operation System",
+          "labelData":"Android 13, MIUI 14"
+        },
+        {
+          "id":"chipset",
+          "label": "Chipset",
+          "labelData":"Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)"
+        },
+        {
+          "id":"cpu",
+          "label": "CPU",
+          "labelData":"Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
+        }
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id":"samsung",
+      "brand": "Samsung"
+    },
+    {
+      "id":"apple",
+      "brand": "Apple"
+    },
+    {
+      "id":"lg",
+      "brand": "LG"
+    },
+    {
+      "id":"xiaomi",
+      "brand": "Xiaomi"
+    },
+    {
+      "id":"lenovo",
+      "brand": "Lenovo"
+    },
+    {
+      "id":"honor",
+      "brand": "Honor"
+    },
+    {
+      "id":"asus",
+      "brand":"Asus"
+    },
+    {
+      "id":"poco",
+      "brand":"Poco"
+    },
+    {
+      "id":"reset",
+      "brand":"Reset"
+    }
+  ],
+  "types":[
+    {
+      "id":"refrigator",
+      "label":"Refrigators"
+    },
+    {
+      "id":"smartphone",
+      "label":"Smartphones"
+    },
+    {
+      "id":"washing-machine",
+      "label":"Washing Machines"
+    },
+    {
+      "id":"headphone",
+      "label":"Headphones"
+    },
+    {
+      "id":"tablet",
+      "label":"Tablets"
+    },
+    {
+      "id":"notebook",
+      "label":"Notebooks"
+    },
+    {
+      "id":"reset",
+      "label":"Reset filter"
+    }
+  ]
+}

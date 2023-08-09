@@ -1,0 +1,22 @@
+.pagination {
+  justify-content: center !important;
+  align-items: center !important;
+  justify-items: center !important;
+  margin-top: 30px !important;
+  gap: 10px !important;
+}
+.pagination .pagination__btns {
+  width: fit-content !important;
+  visibility: visible;
+  opacity: 1;
+  cursor: pointer;
+}
+.pagination .pagination__page {
+  width: fit-content !important;
+}
+
+.pagination .btn__disable {
+  visibility: hidden;
+  opacity: 0;
+  cursor: none;
+}

@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto !important;
+}
+
+.list-group {
+  margin-top: 15px !important;
+  margin-right: 35px !important;
+}
+
+.list-group-item {
+  padding: 10px !important;
+}

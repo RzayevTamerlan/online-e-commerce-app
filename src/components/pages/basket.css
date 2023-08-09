@@ -1,0 +1,63 @@
+.clear-basket {
+  width: fit-content !important;
+  font-size: 20px;
+}
+
+.total-price {
+  display: inline-block !important;
+  width: fit-content !important;
+}
+
+.emptyBasketRow {
+  justify-content: center !important;
+  align-items: center !important;
+  height: 90vh !important;
+}
+
+.deviceItemBasket {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-between;
+  margin-top: 20px !important;
+}
+
+
+
+.deviceItem__left {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.deviceItem__img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.deviceItem__img img {
+  width: 100%;
+  object-fit: contain;
+  height: 100%;
+}
+
+.deviceItem__name {
+  max-width: 200px;
+  color: #000;
+  text-align: left;
+  font-size: 22px;
+}
+
+.deviceItem__right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  gap: 10px;
+  color: #000;
+  z-index: 100 !important;
+} 
+
+.deviceItem__delete {
+  z-index: 100 !important;
+}

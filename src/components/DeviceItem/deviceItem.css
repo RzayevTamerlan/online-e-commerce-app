@@ -1,0 +1,28 @@
+* {
+  text-decoration: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size: 16px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.card {
+  height: 260px;
+  transition: 0.5s all;
+  width: 95% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.device__name {
+  margin-bottom: 0px;
+}
+.card:hover {
+  transform: scale(1.05);
+}

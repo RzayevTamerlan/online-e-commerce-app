@@ -1,0 +1,9 @@
+.addToBasketCard {
+  width: 100% !important;
+}
+
+@media(max-width:400px) {
+  .addToBasketCard {
+    margin-top: 30px !important;
+  }
+}

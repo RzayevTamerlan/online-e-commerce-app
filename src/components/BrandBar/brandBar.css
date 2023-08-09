@@ -1,0 +1,33 @@
+.brandsrow {
+  justify-content: space-between !important;
+  gap: 10px !important;
+}
+
+.brandsrow .brandscards {
+  display: inline-block !important;
+  width: fit-content !important;
+  height: fit-content !important;
+  cursor: pointer !important;
+}
+
+.card {
+  width: 100% !important;
+  margin-right: 13px !important;
+}
+@media(max-width:750px) {
+  .card {
+    margin: 0 !important;
+  }
+  .brandsrow {
+    margin-top: 30px !important;
+  }
+  .list-group {
+    margin: 0 !important; 
+  }
+  .deviceList a {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    justify-items: center !important;
+  }
+}
