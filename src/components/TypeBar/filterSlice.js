@@ -24,7 +24,7 @@ export const fetchBrands = createAsyncThunk("filter/fetchBrands", async () => {
 });
 export const fetchTypes = createAsyncThunk("filter/fetchTypes", async () => {
   const { request } = useHttp();
-  return await request("http://localhost:3001/types");
+  return await request("http://localhost:3001/brands");
 });
 const filterSlice = createSlice({
   name: "filter",
