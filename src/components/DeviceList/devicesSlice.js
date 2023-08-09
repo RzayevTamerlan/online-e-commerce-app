@@ -21,19 +21,19 @@ export const fetchFilteredDevices = createAsyncThunk(
     const { request } = useHttp();
     if (brandFilter && typeFilter) {
       return await request(
-        `http://localhost:3000/products?brand=${brandFilter}&type=${typeFilter}&_page=${page}&_limit=16`
+        `http://localhost:3001/products?brand=${brandFilter}&type=${typeFilter}&_page=${page}&_limit=16`
       );
     } else if (brandFilter) {
       return await request(
-        `http://localhost:3000/products?brand=${brandFilter}&_page=${page}&_limit=16`
+        `http://localhost:3001/products?brand=${brandFilter}&_page=${page}&_limit=16`
       );
     } else if (typeFilter) {
       return await request(
-        `http://localhost:3000/products?&type=${typeFilter}&_page=${page}&_limit=16`
+        `http://localhost:3001/products?&type=${typeFilter}&_page=${page}&_limit=16`
       );
     } else {
       return await request(
-        `http://localhost:3000/products?&_page=${page}&_limit=16`
+        `http://localhost:3001/products?&_page=${page}&_limit=16`
       );
     }
   }
@@ -47,21 +47,21 @@ export const fetchDevicesLength = createAsyncThunk(
     const { request } = useHttp();
     if (brandFilter && typeFilter) {
       const req = await request(
-        `http://localhost:3000/products?brand=${brandFilter}&type=${typeFilter}`
+        `http://localhost:3001/products?brand=${brandFilter}&type=${typeFilter}`
       );
       return Object.keys(req).length;
     } else if (brandFilter) {
       const req = await request(
-        `http://localhost:3000/products?brand=${brandFilter}`
+        `http://localhost:3001/products?brand=${brandFilter}`
       );
       return Object.keys(req).length;
     } else if (typeFilter) {
       const req = await request(
-        `http://localhost:3000/products?&type=${typeFilter}`
+        `http://localhost:3001/products?&type=${typeFilter}`
       );
       return Object.keys(req).length;
     } else {
-      const req = await request(`http://localhost:3000/products`);
+      const req = await request(`http://localhost:3001/products`);
       return Object.keys(req).length;
     }
   }
@@ -71,7 +71,7 @@ export const fetchDevice = createAsyncThunk(
   "devices/fetchDevice",
   async (id) => {
     const { request } = useHttp();
-    return await request(`http://localhost:3000/products/${id}`);
+    return await request(`http://localhost:3001/products/${id}`);
   }
 );
 

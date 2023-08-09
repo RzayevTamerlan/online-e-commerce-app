@@ -20,11 +20,11 @@ const initialState = filterAdapter.getInitialState({
 });
 export const fetchBrands = createAsyncThunk("filter/fetchBrands", async () => {
   const { request } = useHttp();
-  return await request("http://localhost:3000/brands");
+  return await request("http://localhost:3001/brands");
 });
 export const fetchTypes = createAsyncThunk("filter/fetchTypes", async () => {
   const { request } = useHttp();
-  return await request("http://localhost:3000/types");
+  return await request("http://localhost:3001/types");
 });
 const filterSlice = createSlice({
   name: "filter",
