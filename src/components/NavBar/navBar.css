@@ -1,0 +1,20 @@
+.basketBox {
+  position: relative;
+}
+
+.basket__icon {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-color: rgb(0, 255, 191);
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+}
