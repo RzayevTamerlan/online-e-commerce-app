@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import { Button, Card, Col, Container, Image, Row } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 import { fetchDevice } from "../DeviceList/devicesSlice";
-import { addDeviceToBasket } from "../BasketItem/basketSlice";
+import { addDeviceToBasket, incementDevice } from "../BasketItem/basketSlice";
 import { useDispatch, useSelector } from "react-redux";
 import bigStar from "../../assets/devicePageStar.svg";
 import Spinner from "../Spinner/Spinner";
@@ -12,6 +12,7 @@ import "./devicePage.css";
 const DevicePage = () => {
   const { deviceId } = useParams();
   const dispatch = useDispatch();
+  const basket = useSelector((state) => state.basket.basket);
   const activeDevice = useSelector((state) => state.devices.activeDevice);
 
   useEffect(() => {
@@ -19,13 +20,20 @@ const DevicePage = () => {
   }, [deviceId]);
   const activeDeviceSpecs = activeDevice.specs;
   const addToBasket = (device) => {
-    dispatch(addDeviceToBasket(device));
+    const index = basket.findIndex((item) => item.id === device.id); 
+    if (index >= 0) {
+      dispatch(incementDevice(index));
+    } else {
+      dispatch(addDeviceToBasket(device));
+    }
   };
   return (
     <>
       <Helmet>
         <meta name="description" content="Device page " />
-        <title>{`${activeDevice.type}`} | {`${activeDevice.name}`}</title>
+        <title>
+          {`${activeDevice.type}`} | {`${activeDevice.name}`}
+        </title>
       </Helmet>
       <Container className="mt-3">
         <Row>
@@ -73,7 +81,7 @@ const DevicePage = () => {
             >
               <h3 className="mt-3">From: {activeDevice.price}$</h3>
               <Button
-                onClick={() => addToBasket(activeDevice)}
+                onClick={() => addToBasket({ ...activeDevice, count: 1 })}
                 className={"mb-3 p-3"}
                 variant={"outline-dark"}
               >
